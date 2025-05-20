@@ -1,0 +1,9 @@
+title: "John J. Lott"
+email: your@youremail.com
+description: "Cross-domain insights on e-commerce, investing, entrepreneurship & restructuring"
+baseurl: ""        # no subfolder
+url: "https://johnjlott.com"
+theme: minima      # GitHub Pages–supported default
+plugins:
+  - jekyll-feed    # auto RSS feed
+markdown: kramdown
